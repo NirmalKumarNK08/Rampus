@@ -11,8 +11,8 @@ const Events = () => {
          <h1 className='font-bold text-xl md:text-2xl text-center underline mt-8'>Overall Event Coordinators</h1>
          <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
-               <p className='text-2xl font-bold'>Mahendra</p>
-               <p className='text-lg'>9876543210</p>
+               <p className='text-2xl font-bold'>Teja Sri</p>
+               <p className='text-lg'>9176177957</p>
             </div>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Prabhagar</p>
