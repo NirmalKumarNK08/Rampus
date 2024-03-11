@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+* {
+   font-family: "Anta", sans-serif;
+   scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background: rgb(0, 0, 0);
+  background-attachment: fixed;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  background: #858585;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1b1b1b;
+  cursor: pointer;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #fff189, #a7ff84, #7edfff, #fda269);
+  /* -webkit-background-clip: text; */
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+}
+
+.creation {
+  width: 93%;
+}
+
+.akash-glow {
+  box-shadow: 0 0 40px 15px #48abe0;
+}
+.prithvi-glow {
+  box-shadow: 0 0 40px 15px #43cf5f;
+}
+.agni-glow {
+  box-shadow: 0 0 40px 15px #e08a48;
+}
+.thrishul-glow {
+  box-shadow: 0 0 40px 15px #989d33;
+}
+
+.text-outline {
+  -webkit-text-stroke: 1px black; /* For Safari */
+  /* text-stroke: 1px black; */
+  color: transparent;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.time {
+  font-size: 35px;
+}
+
+.time > span {
+  padding-right: 2em;
+}
+
+.container-element > a, .shadow > a, .shadowContainer {
+  box-shadow: 2px 4px 5px rgb(0, 0, 0);
+  transition: all .3s ease-in-out;
+}
+
+.container-element > a:hover, .shadow > a:hover {
+  box-shadow: inset 3px 3px 10px rgb(0, 0, 0);
+  transition: all .4s ease-in-out;
+  background-color: #ffffffbc;
+}
+
+.registerAnimation {
+  animation: register 4s ease-in-out infinite;
+}
+
+@keyframes register {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
