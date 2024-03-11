@@ -50,9 +50,9 @@ function ScrollToTop() {
 function App() {
   return (
     <>
+      <Router>
       <ParticleEffect />
       <NavBar />
-      <Router>
         <ScrollToTop />
         <Routes>
           <Route path="/" index element={<Home />}/>
