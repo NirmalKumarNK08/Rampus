@@ -20,7 +20,13 @@ const Contact = () => {
             </div>
          </div>
       </div>
-      <div className='w-full h-auto flex flex-col md:flex-row py-5 pb-14 md:items-center justify-between px-5 absolute bottom-0 text-lg bg-slate-800'>
+      <div className='w-full h-auto flex gap-10 justify-center items-center mt-10'>
+        {/* <h1 className='text-orange-400'>AGNI</h1>
+        <h1 className='text-sky-400'>AKASH</h1>
+        <h1 className='text-green-500'>PRITHVI</h1>
+        <h1 className='text-yellow-400'>TRISHUL</h1> */}
+      </div>
+      <div className='w-full h-auto flex relative flex-col mt-10 md:flex-row py-5 pb-14 md:items-center justify-between px-5 text-lg bg-slate-800'>
         <div>
           <div className='flex gap-2 items-center'>
             <img src="./location.gif" alt="location" className='h-10 w-10' />

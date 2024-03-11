@@ -19,7 +19,7 @@ const House = () => {
         </a>
         <a href='/thrishul' className='flex items-center justify-center flex-col'>
           <img src="thrishulLogo.jpeg" alt="" className='h-60 hover:scale-110 transition-all ease-in-out duration-300'/>
-          <h1 className='font-bold text-3xl text-yellow-400 z-10'>THRISHUL</h1>
+          <h1 className='font-bold text-3xl text-yellow-400 z-10'>TRISHUL</h1>
         </a>
       </div>
     </div>

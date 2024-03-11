@@ -11,7 +11,7 @@ const Agni = () => {
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-xl underline font-bold'>CAPTAIN</p>
-              <img src="sriram.jpg" alt="" className='h-44 border-4 border-red-700 my-2 rounded-full w-44'/>
+              <img src="sriram1.jpg" alt="" className='h-44 border-4 border-red-700 my-2 rounded-full w-44'/>
                <p className='text-xl font-bold'>SRI RAM</p>
                <p className='text-sm'>(MCA)</p>
             </div>

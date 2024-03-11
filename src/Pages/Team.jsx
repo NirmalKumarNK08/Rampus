@@ -12,7 +12,7 @@ const Team = () => {
           <p className='font-bold text-md'>(President)</p>
         </div>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <img src="Joshua.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>JOSHUA</h1>
           <p className='font-bold text-md'>(Vice President)</p>
         </div>
@@ -22,7 +22,7 @@ const Team = () => {
           <p className='font-bold text-md'>(Secretary)</p>
         </div>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <img src="sushmitha.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>SUSHMITHA</h1>
           <p className='font-bold text-md'>(Joint Secretary)</p>
         </div>
@@ -40,8 +40,8 @@ const Team = () => {
       <h1 className='text-3xl gradient-text mt-10'>PROGRAM DIRECTOR</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
-          <h1 className='font-bold text-2xl'>PRABHA</h1>
+          <img src="prabha.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <h1 className='font-bold text-2xl'>PRABHAKAR</h1>
           <p className='font-bold text-md'>(Program Director)</p>
         </div>
       </div>
@@ -76,7 +76,7 @@ const Team = () => {
       <h1 className='text-3xl gradient-text mt-10'>DIGITAL COMMITTEE</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <img src="Syed.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>SYED AFREED</h1>
           <p className='font-bold text-md'>(Digital Head)</p>
         </div>
@@ -85,7 +85,7 @@ const Team = () => {
       <h1 className='text-3xl gradient-text mt-10'>CREATIVE COMMITTEE</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <img src="kuldeep.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>KULDEEP</h1>
           <p className='font-bold text-md'>(Creative Head)</p>
         </div>
