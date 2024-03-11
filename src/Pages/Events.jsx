@@ -147,7 +147,7 @@ const Events = () => {
             </div>
          </div>
       </div>
-      <div className='grid md:grid-cols-2 container-element grid-cols-1 lg:grid-cols-4 place-items-center gap-5 h-auto p-10'>
+      <div className='grid md:grid-cols-2 container-element grid-cols-1 lg:grid-cols-4 place-items-center w-full gap-5 h-auto p-10'>
          <Link to="/bgmi" className={cardStyle}>
             <h1 className='font-bold text-2xl'>BGMI</h1>
             <p className='text-center'>Aim, Shoot, Win!</p>
