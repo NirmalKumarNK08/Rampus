@@ -58,7 +58,7 @@ const Team = () => {
       <h1 className='text-3xl gradient-text mt-10'>HOSPITALITY COMMITTEE</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <img src="kabilan.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>KABILAN</h1>
           <p className='font-bold text-md'>(Hospitality Head)</p>
         </div>
@@ -67,7 +67,7 @@ const Team = () => {
       <h1 className='text-3xl gradient-text mt-10'>DISCIPLINE COMMITTEE</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
-          <img src="iplauction.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <img src="saran.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>SARAN VIJAYAN D</h1>
           <p className='font-bold text-md'>(Disciplinary Head)</p>
         </div>
