@@ -9,16 +9,16 @@ const Contact = () => {
          {/* <h1 className='font-bold text-xl md:text-2xl text-center underline mt-8'>Overall Event Coordinators</h1> */}
          <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
-               <p className='text-xl text-center underline mb-5 font-bold'>Secretary</p>
-               <p className='text-2xl font-bold'>Teja Sri</p>
-               <p className='text-lg'>(III - B.com Gen)</p>
-               <p className='text-lg'>9176177957</p>
-            </div>
-            <div className={`${card}`}>
                <p className='text-xl text-center underline mb-5 font-bold'>Chief Executive Head</p>
                <p className='text-2xl font-bold'>Abinash Raj</p>
                <p className='text-lg'>(II - B.com ISM)</p>
                <p className='text-lg'>8681973247</p>
+            </div>
+            <div className={`${card}`}>
+               <p className='text-xl text-center underline mb-5 font-bold'>Executive Member</p>
+               <p className='text-2xl font-bold'>Teja Sri</p>
+               <p className='text-lg'>(III - B.com Gen)</p>
+               <p className='text-lg'>9176177957</p>
             </div>
          </div>
       </div>
