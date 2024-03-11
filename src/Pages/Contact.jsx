@@ -46,7 +46,7 @@ const Contact = () => {
           </a>
         </div>
         <div className='flex items-center creation justify-center absolute bottom-3'>
-          <a href="https://www.instagram.com/n_k_0_8_?igsh=Z2Y0amZpems1dHln" className='bg-black bg-opacity-70 p-1 px-3 rounded-xl'>Created By <span className='text-blue-700 underline'>Nirmal Kumar</span></a>
+          <a target="a_blank" href="https://www.instagram.com/n_k_0_8_?igsh=Z2Y0amZpems1dHln" className='bg-black bg-opacity-70 p-1 px-3 rounded-xl'>Created By <span className='text-blue-700 underline'>Nirmal Kumar</span></a>
         </div>
       </div>
     </div>
