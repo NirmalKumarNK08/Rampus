@@ -16,7 +16,7 @@ const Contact = () => {
             </div>
             <div className={`${card}`}>
                <p className='text-xl text-center underline mb-5 font-bold'>Executive Member</p>
-               <p className='text-2xl font-bold'>Teja Sree</p>
+               <p className='text-2xl font-bold'>Teja Shree</p>
                <p className='text-lg'>(I - B.com CS)</p>
                <p className='text-lg'>9176177957</p>
             </div>
