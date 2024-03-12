@@ -12,11 +12,11 @@ const Events = () => {
          <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Mahendra</p>
-               <p className='text-lg'>9876543210</p>
+               <p className='text-lg'>9360378459</p>
             </div>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Prabhagar</p>
-               <p className='text-lg'>8974563210</p>
+               <p className='text-lg'>7358441976</p>
             </div>
          </div>
       </div>
@@ -53,11 +53,11 @@ const Events = () => {
          <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Susmitha</p>
-               <p className='text-lg'>9876543210</p>
+               <p className='text-lg'>8667213629</p>
             </div>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Joshua</p>
-               <p className='text-lg'>9123456789</p>
+               <p className='text-lg'>7200060423</p>
             </div>
          </div>
       </div>
@@ -100,11 +100,11 @@ const Events = () => {
          <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Kuldeep</p>
-               <p className='text-lg'>9876543217</p>
+               <p className='text-lg'>9600014546</p>
             </div>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Balagopal</p>
-               <p className='text-lg'>9876543210</p>
+               <p className='text-lg'>8610387253</p>
             </div>
          </div>
       </div>
@@ -139,11 +139,11 @@ const Events = () => {
          <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Karthick</p>
-               <p className='text-lg'>9876543217</p>
+               <p className='text-lg'>9677113775</p>
             </div>
             <div className={`${card}`}>
                <p className='text-2xl font-bold'>Maneesh</p>
-               <p className='text-lg'>9876543210</p>
+               <p className='text-lg'>8939145090</p>
             </div>
          </div>
       </div>

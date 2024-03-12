@@ -11,6 +11,7 @@ const LogoDesigning = () => {
         <div className='px-5 text-lg flex flex-col gap-2'>
           <p>{"->"} The design of the Logo must be an original work of creation.</p>
           <p>{"->"} Every participant can submit one entry only.</p>
+          <p>{"->"} Topic: <b>RAMPUS LOGO / CAMPUS LIFE(S&H)</b></p>
           <p>{"->"} All technical details, including file formats, can be mentioned in the specification details itself.</p>
           <p>{"->"} Late submissions will not be considered.</p>
           <p>{"->"} The logo may include any colours.</p>

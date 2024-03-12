@@ -91,7 +91,7 @@ const Team = () => {
         </div>
       </div>
 
-      <h1 className='text-3xl gradient-text mt-10'>PUBLIC RELATIONS OFFICER</h1>
+      <h1 className='text-3xl text-center gradient-text mt-10'>PUBLIC RELATIONS OFFICER</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
           <img src="naveen.jpg" alt="" className='h-36 rounded-full w-36'/>

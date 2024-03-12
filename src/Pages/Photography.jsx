@@ -11,7 +11,7 @@ const Photography = () => {
         <div className='px-5 text-lg flex flex-col gap-2'>
           <p>{"->"} It is an individual event.</p>
           <p>{"->"} Every participants can submit one entry only.</p>
-          <p>{"->"} Theme: Street life</p>
+          <p>{"->"} Theme: <b>Street life</b></p>
           <p>{"->"} Categories: <br />
             <div className='ml-5'>
               -Smartphone <br />
@@ -21,7 +21,7 @@ const Photography = () => {
           </p>
           <p>{"->"} Submit the Photograph with  a suitable caption.</p>
           <p>{"->"} Get your work in print.</p>
-          <p>{"->"} the given photo should contain watermark(date and time).</p>
+          <p>{"->"} The given photo should contain watermark(date and time).</p>
         </div>
         <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>

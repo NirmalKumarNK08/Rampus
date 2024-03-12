@@ -10,6 +10,7 @@ const MemeCreation = () => {
         <h1 className='font-bold mt-5 mb-2 underline text-2xl md:text-3xl'>RULES & REGULATIONS</h1>
         <div className='px-5 text-lg flex flex-col gap-2'>
           <p>{"->"} Individual participation and group participation</p>
+          <p>{"->"} Topic: <b>SRM COLLEGE</b></p>
           <p>{"->"} Ensure that the created memes are your genuine and don't have any copyright issue. .</p>
           <p>{"->"} Offensive or obscene or lewd ormisrepresentative memes will not be approved for entry into the competition.</p>
           <p>{"->"} Participants will be judged based on content, presentation, creativity, and quality of the meme's message.</p>

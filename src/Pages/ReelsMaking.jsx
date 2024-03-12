@@ -9,7 +9,9 @@ const ReelsMaking = () => {
         {/* <img src="./codeofbattle.gif" alt="codeofbattle" className='h-44 w-44'/> */}
         <h1 className='font-bold mt-5 mb-2 underline text-2xl md:text-3xl'>RULES & REGULATIONS</h1>
         <div className='px-5 text-lg flex flex-col gap-2'>
-          <p>{"->"} The reel must be an original creation. You can only be inspired by existing trends online. Plagiarized content lead to disqualification.</p>
+          <p>{"->"} The reel must be an original creation.</p>
+          <p>{"->"} Theme: <b>Aesthetic / Retro.</b></p>
+          <p>{"->"} Plagiarized content lead to disqualification.</p>
           <p>{"->"} Any offensive, name-calling, derogatory remarks, and/or regional slang towards any person or community should not be used.</p>
           <p>{"->"} The video should not exceed 60 Seconds.</p>
           <p>{"->"} Individual, as well as group entries (not more than 3 people), are allowed.</p>
