@@ -41,7 +41,7 @@ const Team = () => {
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
           <img src="prabha.jpg" alt="" className='h-36 rounded-full w-36'/>
-          <h1 className='font-bold text-2xl'>PRABHAKAR</h1>
+          <h1 className='font-bold text-2xl'>PRABHAGAR</h1>
           <p className='font-bold text-md'>(Program Director)</p>
         </div>
       </div>

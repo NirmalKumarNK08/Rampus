@@ -10,7 +10,6 @@ const MrMsRampus = () => {
         <div className='px-5 text-lg flex flex-col gap-2'>
           <p className='mt-5'> {"->"} It is a team event consists of one boy and a girl.</p>
           <p> {"->"} Duration-5 mins.</p>
-          <p> {"->"} One team per department.</p>
           <p> {"->"} All students must carry their ID cards.</p>
           <p> {"->"} Vulgarity in any form will not be tolerated.</p>
           <p> {"->"} Students must strictly adhere to the dress codes, wearing attire below the knee, no sleeveless allowed.</p>

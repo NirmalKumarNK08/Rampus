@@ -9,7 +9,7 @@ const Adaptune = () => {
         <h1 className='font-bold mt-5 mb-2 underline text-2xl md:text-3xl'>RULES & REGULATIONS</h1>
         <div className='px-5 text-lg flex flex-col gap-2'>
           <p className='mt-5'> {"->"} A team may consist of a maximum of 2 participants. </p>
-          <p> {"->"} Songs would be played for a maximum of 2 minutes. </p>
+          <p> {"->"} Songs would be played for a maximum of 5 minutes. </p>
           <p> {"->"} Any form of obscene, unacceptable behaviour or language, vulgarity, on or off stage will lead to immediate disqualification of the team or the participant. </p>
           <p> {"->"} All the participants should report 15 minutes before the events.</p>
         </div>

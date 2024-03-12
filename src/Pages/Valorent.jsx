@@ -16,6 +16,7 @@ const Valorent = () => {
          <div>
             <p className='font-bold mt-5 text-xl'>TEAM & ROSTERS:</p>
          </div>
+          <p>{"->"} Three members per team.</p>
           <p>{"->"} Each team's roster must consist of at least 5 players.</p>
           <p>{"->"} Each team's roster will be allowed to have 5 main players.</p>
           <p>{"->"} A player is allowed to represent only one Team.</p>

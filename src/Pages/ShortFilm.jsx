@@ -21,7 +21,7 @@ const ShortFilm = () => {
           <p>{"->"} Entries must be short films with a maximum duration of 15 mins max.</p>
           <p>{"->"} Films can be of any genre (e.g., drama, comedy, documentary, animation).</p>
           <p>{"->"} Submissions must be made in digital format (preferred formats include
-                mp4, .mov, or .avi). A copy of it should be stored in a pen drive and submitted to the respective heads.</p>
+                mp4, .mov, or .avi). <b>A copy of it should be stored in a pen drive and submitted to the respective heads.</b></p>
           <p>{"->"} Each submission must include a title, credits (including the names of participants and their roles), and a brief synopsis (not exceeding 150 words).</p>
           <div>
             <p className='font-bold mt-5 text-xl'>CONTENT GUIDELINES:</p>
