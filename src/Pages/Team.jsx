@@ -5,7 +5,7 @@ const Team = () => {
   return (
     <div className='w-full pb-10 flex flex-col items-center justify-center'>
       <h1 className='text-3xl gradient-text mt-10'>CORE COMMITTEE</h1>
-      <div className='w-full mx-10 h-auto gap-5 px-5 mt-5 grid sm:grid-cols-2 lg:grid-cols-4'>
+      <div className='w-full mx-10 h-auto gap-5 px-5 mt-5 grid sm:grid-cols-2 lg:grid-cols-'>
         <div className={cardStyle}>
           <img src="lavan.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>LAVAN S</h1>
