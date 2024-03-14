@@ -26,6 +26,10 @@ const Bgmi = () => {
                <p className='text-xl font-bold'>Karthick</p>
                <p className='text-sm'>9677113775</p>
             </div>
+          <div className={`${card}`}>
+               <p className='text-xl font-bold'>Dhanraj</p>
+               <p className='text-sm'>6383567979</p>
+            </div>
          </div>
       </div>
     </div>
