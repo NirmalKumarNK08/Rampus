@@ -19,6 +19,10 @@ const IPLAuctions = () => {
                <p className='text-xl font-bold'>SANTHOSH</p>
                <p className='text-sm'>8608344782</p>
             </div>
+          <div className={`${card}`}>
+               <p className='text-xl font-bold'>MITHUN</p>
+               <p className='text-sm'>7010662726</p>
+            </div>
          </div>
       </div>
     </div>
