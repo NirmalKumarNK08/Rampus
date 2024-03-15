@@ -24,7 +24,7 @@ const Valorent = () => {
         <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
-               <p className='text-xl font-bold'>Nareen</p>
+               <p className='text-xl font-bold'>Narain</p>
                <p className='text-sm'>9025673439</p>
             </div>
          </div>
