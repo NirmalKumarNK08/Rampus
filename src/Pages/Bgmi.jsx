@@ -22,10 +22,6 @@ const Bgmi = () => {
         </div>
         <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
-            <div className={`${card}`}>
-               <p className='text-xl font-bold'>Karthick</p>
-               <p className='text-sm'>9677113775</p>
-            </div>
           <div className={`${card}`}>
                <p className='text-xl font-bold'>Dhanraj</p>
                <p className='text-sm'>6383567979</p>
