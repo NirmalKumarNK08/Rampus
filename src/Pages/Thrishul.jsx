@@ -7,7 +7,7 @@ const Thrishul = () => {
       <div className='w-full thrishul-glow md:w-4/5 p-5 mb-10 flex gap-3 items-center justify-center rounded-3xl flex-col bg-yellow-500 bg-opacity-70 mt-5 py-10'>
         <h1 className='text-4xl z-10 font-bold text-center'>THRISHUL</h1>
         <img src="thrishulLogo.jpeg" alt="" className='sm:h-44 h-36 rounded-full'/>
-        <p className='px-5 md:px-20 text-lg text-center'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, recusandae. Saepe consectetur ratione eos similique totam in ea hic facilis!</p>
+        <p className='px-5 md:px-20 text-lg text-center'>The Trishul, which signifies three aspects of consciousness is represented aptly in their motto “Will, wisdom and action”.</p>
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-xl underline font-bold'>CAPTAIN</p>
