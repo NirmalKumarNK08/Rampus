@@ -7,7 +7,7 @@ const Agni = () => {
       <div className='w-full agni-glow md:w-4/5 p-5 mb-10 flex gap-3 items-center justify-center rounded-3xl flex-col bg-orange-600 bg-opacity-70 mt-5 py-10'>
         <h1 className='text-4xl z-10 font-bold text-center'>AGNI</h1>
         <img src="agniLogo.jpeg" alt="" className='sm:h-44 h-36 rounded-full'/>
-        <p className='px-5 md:px-20 text-lg text-center'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, recusandae. Saepe consectetur ratione eos similique totam in ea hic facilis!</p>
+        <p className='px-5 md:px-20 text-lg text-center'>“Lead us from Darkness to Light” The flame that leads the way from hard work to success, from perseverance to excellence, 'from darkness to light.</p>
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-xl underline font-bold'>CAPTAIN</p>
