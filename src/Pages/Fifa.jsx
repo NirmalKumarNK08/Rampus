@@ -9,6 +9,7 @@ const Fifa = () => {
         <h1 className='font-bold mt-5 mb-2 underline text-2xl md:text-3xl'>RULES & REGULATIONS</h1>
         <div className='px-5 text-lg flex flex-col gap-2'>
           <p className='mt-5'> {"->"} Players will participate as a team of 2.</p>
+          <p> {"->"} The game will be conducted in PS5</p>
           <p> {"->"} No warm-up or practice Games are permitted once the first tourmament match has begun.</p>
           <p> {"->"} Players may not use any custom teams or players for this competition.</p>
          <div>
