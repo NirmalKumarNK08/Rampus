@@ -23,7 +23,7 @@ const FlamelessCooking = () => {
                <p className='text-sm'>9789030240</p>
             </div>
             <div className={`${card}`}>
-               <p className='text-xl font-bold'>SANTHIYA</p>
+               <p className='text-xl font-bold'>SANDHIYA</p>
                <p className='text-sm'>9176471786</p>
             </div>
          </div>
