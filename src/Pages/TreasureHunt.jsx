@@ -21,7 +21,7 @@ const TreasureHunt = () => {
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-xl font-bold'>VASUDHA</p>
-               <p className='text-sm'>892571825</p>
+               <p className='text-sm'>8925718252</p>
             </div>
             <div className={`${card}`}>
                <p className='text-xl font-bold'>JENINA</p>
