@@ -23,7 +23,7 @@ const Mime = () => {
                <p className='text-sm'>7397244880</p>
             </div>
             <div className={`${card}`}>
-               <p className='text-xl font-bold'>Nishinth</p>
+               <p className='text-xl font-bold'>Nishanth Priyan</p>
                <p className='text-sm'>8124139108</p>
             </div>
          </div>
