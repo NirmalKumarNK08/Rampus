@@ -55,6 +55,24 @@ const Team = () => {
         </div>
       </div>
 
+      <h1 className='text-3xl gradient-text mt-10'>CREATIVE COMMITTEE</h1>
+      <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
+        <div className={cardStyle}>
+          <img src="kuldeep.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <h1 className='font-bold text-2xl'>KULDEEP</h1>
+          <p className='font-bold text-md'>(Creative Head)</p>
+        </div>
+      </div>
+
+      <h1 className='text-3xl text-center gradient-text mt-10'>PUBLIC RELATIONS OFFICER</h1>
+      <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
+        <div className={cardStyle}>
+          <img src="naveen.jpg" alt="" className='h-36 rounded-full w-36'/>
+          <h1 className='font-bold text-2xl'>NAVEEN</h1>
+          <p className='font-bold text-md'>(P.R.O)</p>
+        </div>
+      </div>
+
       <h1 className='text-3xl gradient-text mt-10'>EXECUTIVE HEAD</h1>
       <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
         <div className={cardStyle}>
@@ -88,24 +106,6 @@ const Team = () => {
           <img src="Syed.jpg" alt="" className='h-36 rounded-full w-36'/>
           <h1 className='font-bold text-2xl'>SYED AFREED</h1>
           <p className='font-bold text-md'>(Digital Head)</p>
-        </div>
-      </div>
-
-      <h1 className='text-3xl gradient-text mt-10'>CREATIVE COMMITTEE</h1>
-      <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
-        <div className={cardStyle}>
-          <img src="kuldeep.jpg" alt="" className='h-36 rounded-full w-36'/>
-          <h1 className='font-bold text-2xl'>KULDEEP</h1>
-          <p className='font-bold text-md'>(Creative Head)</p>
-        </div>
-      </div>
-
-      <h1 className='text-3xl text-center gradient-text mt-10'>PUBLIC RELATIONS OFFICER</h1>
-      <div className='lg:w-2/6 md:w-3/6 w-full mx-10 h-auto gap-5 px-5 mt-5 grid'>
-        <div className={cardStyle}>
-          <img src="naveen.jpg" alt="" className='h-36 rounded-full w-36'/>
-          <h1 className='font-bold text-2xl'>NAVEEN</h1>
-          <p className='font-bold text-md'>(P.R.O)</p>
         </div>
       </div>
     </div>
