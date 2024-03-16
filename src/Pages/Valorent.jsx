@@ -31,8 +31,7 @@ const Valorent = () => {
          </div>
           <p>{"->"} All settings will be pre-set by intramural Staff and setting are open to change by staff.</p>
           <p> {"->"} If a glitch or freeze occurs in the system game will be restartted with the same setting and game situation.</p>
-        </div>
-        <div>
+          <div>
             <p className='font-bold mt-5 text-xl'>GAMEPLAY SETTINGS:</p>
          </div>
           <p>{"->"} MAPS: Bind | Haven | Split | Ascent | Icebox | Breeze | Fracture</p>
@@ -50,12 +49,13 @@ const Valorent = () => {
             </div>
             <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
             <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
-                <div className={`${card}`}>
-                  <p className='text-xl font-bold'>Narain</p>
-                  <p className='text-sm'>9025673439</p>
-                </div>
+              <div className={`${card}`}>
+                <p className='text-xl font-bold'>Narain</p>
+                <p className='text-sm'>9025673439</p>
             </div>
         </div>
+      </div>
+    </div>
   )
 }
 
