@@ -17,8 +17,8 @@ const Thrishul = () => {
             </div>
             <div className={`${card}`}>
                <p className='text-xl underline font-bold'>VICE CAPTAIN</p>
-               <img src="priyadharshini.jpg" alt="" className='h-32 border-4 border-yellow-500 my-2 rounded-full w-32'/>
-               <p className='text-xl font-bold'>PRIYA DHARSHINI</p>
+               <img src="dinesh.jpg" alt="" className='h-32 border-4 border-yellow-500 my-2 rounded-full w-32'/>
+               <p className='text-xl font-bold'>R DINESH KUMAR</p>
                <p className='text-sm'>(BCA)</p>
             </div>
          </div>
