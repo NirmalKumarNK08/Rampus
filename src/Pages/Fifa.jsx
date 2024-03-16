@@ -39,20 +39,17 @@ const Fifa = () => {
             </div>
             <div>
               <p className='font-bold mt-5 text-xl'>SPORTMANSHIPS:</p>
-               </div>
-                <p>{"->"} Participants who do not show up on start time of their scheduled match have forfeited their opportunity to participate.
-                </p>
-              </div>
-        </div>
-        <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
-        <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
-            <div className={`${card}`}>
-               <p className='text-xl font-bold'>Kishore</p>
-               <p className='text-sm'>7395984539</p>
             </div>
-         </div>
-      </div>
-    </div>
+            <p>{"->"} Participants who do not show up on start time of their scheduled match have forfeited their opportunity to participate.
+            </p>
+            <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
+            <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
+                <div className={`${card}`}>
+                  <p className='text-xl font-bold'>Kishore</p>
+                  <p className='text-sm'>7395984539</p>
+                </div>
+            </div>
+          </div>
   )
 }
 
