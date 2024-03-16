@@ -8,16 +8,13 @@ const Fifa = () => {
       <div className='h-auto bg-white text-black bg-opacity-75 rounded-xl shadowContainer w-5/6 mb-20 mt-5 flex flex-col items-center justify-center p-3 pb-8'>
         <h1 className='font-bold mt-5 mb-2 underline text-2xl md:text-3xl'>RULES & REGULATIONS</h1>
         <div className='px-5 text-lg flex flex-col gap-2'>
-          <div className='mt-5'>
-            <p className='font-bold mt-5 text-xl'>TOURNAMENT PLAY:</p>
-         </div>
-          <p>{"->"} Tournament will be single elimination with the tournament draw randomly selected.
-          </p>
-          <p> {"->"} All games will be played on Playstation 5 consoles.</p>
          <div>
             <p className='font-bold mt-5 text-xl'>GAMEPLAY:</p>
          </div>
           <p>{"->"} Half Duration: 5 minute halves | Golden Goal Overtime, then shootout
+            <p>{"->"} Tournament will be single elimination with the tournament draw randomly selected.
+          </p>
+          <p> {"->"} All games will be played on Playstation 5 consoles.</p>
           </p>
          <div>
             <p className='font-bold mt-5 text-xl'>GAME SETTINGS:</p>
