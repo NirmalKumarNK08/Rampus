@@ -17,7 +17,7 @@ const IPLAuctions = () => {
         <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
             <div className={`${card}`}>
                <p className='text-xl font-bold'>SANTHOSH</p>
-               <p className='text-sm'>8608344782</p>
+               <p className='text-sm'>8925765099</p>
             </div>
           <div className={`${card}`}>
                <p className='text-xl font-bold'>MITHUN</p>
