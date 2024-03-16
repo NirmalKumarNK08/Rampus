@@ -48,16 +48,14 @@ const Valorent = () => {
                 It is forbidden to cheat, modify the game files, exploit bugs, and/or use any third-party application which would give an unfair advantage against other users. All cheats are completely forbidden to use under any circumstance while playing the tournament Using any cheat will result in bans and disqualifications.
               </p>
             </div>
-        </div>
-        <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
-        <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
-            <div className={`${card}`}>
-               <p className='text-xl font-bold'>Narain</p>
-               <p className='text-sm'>9025673439</p>
+            <h1 className='font-bold text-2xl md:text-3xl text-center underline mt-8'>EVENT COORDINATORS</h1>
+            <div className='flex flex-col justify-center items-center w-full md:flex-row mt-5 gap-5'>
+                <div className={`${card}`}>
+                  <p className='text-xl font-bold'>Narain</p>
+                  <p className='text-sm'>9025673439</p>
+                </div>
             </div>
-         </div>
-      </div>
-    </div>
+        </div>
   )
 }
 
